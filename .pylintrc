@@ -1,0 +1,4 @@
+[MASTER]
+# missing-module-docstring C0114,C0115,C0116
+# too few methods R0903
+disable= C0114,C0115,C0116,E0401,R0903
